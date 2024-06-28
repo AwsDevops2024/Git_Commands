@@ -1,0 +1,10 @@
+Git Commands :-
+-------------------
+git init ------------ .git file enables
+                          It will start tracking of all files inside directory.
+ls -la -------------- List of all files in a current working directory.
+
+touch file_name ---------- Create a file.
+
+git add file_name----------Add file to the Stagging area in local.
+git add . --------------------Add all files to Stagging area in local.
